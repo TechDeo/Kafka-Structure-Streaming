@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/deo/projects/data-engineering/kafka-structure-streaming/kafka_output/part-00000-32bfa800-32e4-4c0e-a976-298ca014d4eb-c000.snappy.parquet","size":899,"isDir":false,"modificationTime":1770485096744,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/deo/projects/data-engineering/kafka-structure-streaming/kafka_output/part-00001-cf8ee65c-fb16-4fbb-b2b8-8c030b43f206-c000.snappy.parquet","size":915,"isDir":false,"modificationTime":1770485096744,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/deo/projects/data-engineering/kafka-structure-streaming/kafka_output/part-00002-9d8e9a86-6dfb-454f-8d21-8053a6adcc82-c000.snappy.parquet","size":868,"isDir":false,"modificationTime":1770485096744,"blockReplication":1,"blockSize":33554432,"action":"add"}
